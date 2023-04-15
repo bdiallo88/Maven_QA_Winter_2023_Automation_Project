@@ -38,6 +38,8 @@ public class Staples_Example2_ReuseableMehodsLogger extends ReusableAnnotations 
         //made fail on purpose
         System.out.println("Iphone result is " + result);
         logger.log(LogStatus.INFO, "Iphone result is " + result);
+
+        //test for git
     }//end of test 2
 
 
